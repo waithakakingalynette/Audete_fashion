@@ -1,0 +1,236 @@
+.nav{
+     display: flex;
+    /* justify-content: space-between; */
+    margin-top:-25px;
+    align-items: centre;
+  
+}
+ 
+  nav ul li{
+      display: inline-flex;
+      list-style-type: none;
+      padding: 20px 100px;
+      font: 5px;
+  
+  }
+
+  .Shop{
+    color: gray;
+  }
+
+  .Dresses{
+    color: grey;
+  }
+
+  .About{
+    color: grey;
+  }
+
+  .FAQ{
+    color: grey;
+  }
+
+  #image{
+    height: 250px;
+    margin-left: 85%;
+  }
+
+  .image{
+    background-color: rgb(100, 32, 163);
+
+  }
+
+  .text{
+    margin-top: -15%;
+    margin-left: 20%;
+    color: white;
+    font-size: xx-large;
+  }
+
+  .b{
+    margin-left: 20%;
+    color: white;
+    font-size: xx-large;
+    background-color:rgb(245, 197, 205);
+    border-color: pink;
+  }
+
+  .weekly{
+    margin-top: 8%;
+    margin-left: 45%;
+    color: gray;
+  }
+
+  .dress{
+    margin-left: 45%;
+    color: grey;
+    text-underline-position: below;
+    font-size: x-large;
+    margin-top: -1%;
+    
+  }
+
+  .top{
+    color: grey;
+    margin-left: 55%;
+    margin-top: -4%;
+    font-size: x-large;
+  }
+
+  .scarlett{
+    color: grey;
+  }
+  .price{
+    color: grey;
+    margin-top: -1%;
+  }
+
+  #image1{
+height: 250px;
+  }
+
+  #image2{
+height: 250px;
+  }
+
+  #image3{
+height: 250px;
+  }
+
+  #image4{
+height: 250px;
+border-style: solid;
+border-color:wheat;
+  }
+
+  .image1{
+margin-left: 15%;
+  }
+
+  .image2{
+margin-left: 35%;
+margin-top: -27%;
+  }
+
+  .image3{
+margin-left: 55%;
+margin-top: -27%;
+  }
+
+  .image4{
+margin-left: 75%;
+margin-top: -27%;
+  }
+
+  .view{
+    color: white;
+    font-size: x-large;
+    background-color:palevioletred;
+    border-color: pink;
+    margin-left: 45%;
+  }
+  #athletic{
+width: 350px;
+height: 280px;
+margin-top: 3%;
+
+  }
+
+  #formal{
+margin-top: 1%;
+width: 180px;
+  }
+
+  #casual{
+    margin-top: 1%;
+    width: 180px;
+  }
+  .athletic{
+margin-left: 10%;
+  }
+
+  .formal{
+margin-left: 50%;
+margin-top: -60%;
+  }
+
+  .casual{
+margin-left: 50%;
+/* margin-top:-1% ; */
+  }
+  .show{
+    color: white;
+    background-color: pink;
+    font-size: x-large;
+    border-color: pink;
+    margin-top: -3%;
+    padding-top: -3%;
+  }
+  .p{
+    margin-top: -2%;
+  }
+
+  #welcome{
+    font-size: smaller;
+    margin-left: 40%;
+  }
+
+  #label{
+margin-left: 40%;
+  }
+
+  #start{
+color: grey;
+margin-left: 40%;
+  }
+
+  #middle{
+color: grey;
+margin-left: 40%;
+  }
+
+  #end{
+color: grey;
+margin-left: 50%;
+  }
+
+  #shoe{
+height: 300px;
+width: 200px;
+margin-top: 1%;
+margin-left: 15%;
+  }
+
+  #shoe1{
+margin-left: 70%;
+height: 300px;
+margin-top: -25%;
+  }
+
+  .images{
+    background-color: silver;
+  }
+
+  #b{
+    color: white;
+    background-color: gray;
+    border-color: grey;
+  }
+
+  #b1{
+    color: white;
+    background-color: palevioletred;
+    border-color: pink;
+  }
+
+  .parag{
+    color: grey;
+    font-size: x-small;
+  }
+
+  .footer{
+    display: flex;
+    justify-content: space-between;
+    background-color:white;
+    /* color: white; */
+  }
